@@ -1,0 +1,10 @@
+Nama	: Fatihannisa Listy Zulmi
+NIM	: 211401034
+KOM	: C
+Lab	: DAA 5
+
+Link youtube untuk No1. Perbedaan Stack dan Queue :
+https://youtu.be/e8rh_ci0twQ
+
+Link youtube untuk No3. Program Linked List :
+https://youtu.be/vN4w92pphEw
